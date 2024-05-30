@@ -1,0 +1,1 @@
+solid_sim_space(cramed_x, cramed_y, TILE_WIDTH*1)

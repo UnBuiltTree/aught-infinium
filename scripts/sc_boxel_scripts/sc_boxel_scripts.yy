@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sc_boxel_scripts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_boxel_scripts",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
