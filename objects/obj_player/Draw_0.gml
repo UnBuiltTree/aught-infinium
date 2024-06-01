@@ -1,5 +1,5 @@
 if x_speed > 0.1 {
-	var _x = x+(abs(x_speed)/x_speed)*-0.5;
+	var _x = x+(abs(x_speed)/x_speed)*0.5;
 } else {
 	var _x = x
 }

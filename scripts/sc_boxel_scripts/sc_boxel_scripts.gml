@@ -134,6 +134,9 @@ function texturize_tile(tile){
 		case STONE2:
 			tile = STONE2 + irandom_range(1, ds_map_find_value(global.tile_variants, STONE2));
 			break;
+		case METAL:
+			tile = METAL + irandom_range(1, ds_map_find_value(global.tile_variants, METAL));
+			 break;
 		case GRASS:
 			tile = GRASS+ irandom_range(1, ds_map_find_value(global.tile_variants, GRASS));
 			break;
